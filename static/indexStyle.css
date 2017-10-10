@@ -1,0 +1,30 @@
+* {
+	text-align: center;
+	box-sizing: border-box;	
+	vertical-align: top;
+	border: 1px dotted red;
+}
+
+.wrapper {
+	width: 1200px;
+	text-align: center;
+	border: 1px solid darkgreen;
+}
+
+.totalBox {
+	display: inline;
+	text-align: center;
+	color: navy;
+}
+
+.place {
+	display: inline-block;
+	width: 23%;
+	margin: 5px;
+}
+
+.actions {
+	display: inline;
+	height: 200px;
+	overflow: scroll;
+}
